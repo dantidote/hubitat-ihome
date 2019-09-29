@@ -10,7 +10,7 @@ To Use:
   6. Profit
 
 This is currently in at least a semi working state.  
-* I only have single devices and I know it will only work for those.
+* I only have single switch devices and I know it will only work for those.
 * I think I should be polling for status
 * I wish the password field was actually obscured (Hubitat bug?) ..  maybe also throw away after login?  does the api key ever rotate?
 * General cleanup..  so much guesswork due to lacking hubitat docs
